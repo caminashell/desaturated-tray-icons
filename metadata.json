@@ -4,7 +4,9 @@
   "description": "Display all tray icons in grayscale",
   "version": 4,
   "shell-version": [
-    "46"
+    "46",
+    "48",
+    "49"
   ],
   "url": "https://github.com/CR1337/desaturated-tray-icons"
 }
